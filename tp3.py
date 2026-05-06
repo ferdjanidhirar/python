@@ -1,4 +1,4 @@
-ex1
+# ex1
 rules = [
     {"if": ["condition1"], "then": "conclusion1"},
     {"if": ["condition2"], "then": "conclusion2"}
